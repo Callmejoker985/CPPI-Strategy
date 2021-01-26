@@ -1,0 +1,80 @@
+AdjustCycle = 1	Riskmulti = 2	GuarantRatio = 1
+Amean = 1.194926e+02:	Ratio_Cls = 0.000000:	Tradefeemean = 0.004075:	sigma = 0.030485:standard:0.226820
+AdjustCycle = 1	Riskmulti = 2	GuarantRatio = 9.000000e-01
+Amean = 1.734999e+02:	Ratio_Cls = 0.000000:	Tradefeemean = 0.017457:	sigma = 0.030485:standard:0.226820
+AdjustCycle = 1	Riskmulti = 3	GuarantRatio = 1
+Amean = 1.489938e+02:	Ratio_Cls = 0.000000:	Tradefeemean = 0.022816:	sigma = 0.030485:standard:0.226820
+AdjustCycle = 1	Riskmulti = 3	GuarantRatio = 9.000000e-01
+Amean = 2.998723e+02:	Ratio_Cls = 0.000000:	Tradefeemean = 0.097737:	sigma = 0.030485:standard:0.226820
+AdjustCycle = 1	Riskmulti = 4	GuarantRatio = 1
+Amean = 2.226143e+02:	Ratio_Cls = 0.000000:	Tradefeemean = 0.089201:	sigma = 0.030485:standard:0.226820
+AdjustCycle = 1	Riskmulti = 4	GuarantRatio = 9.000000e-01
+Amean = 6.152348e+02:	Ratio_Cls = 0.000000:	Tradefeemean = 0.382106:	sigma = 0.030485:standard:0.226820
+AdjustCycle = 1	Riskmulti = 5	GuarantRatio = 1
+Amean = 4.055551e+02:	Ratio_Cls = 0.000000:	Tradefeemean = 0.301264:	sigma = 0.030485:standard:0.226820
+AdjustCycle = 1	Riskmulti = 5	GuarantRatio = 9.000000e-01
+Amean = 1.398883e+03:	Ratio_Cls = 0.000000:	Tradefeemean = 1.290500:	sigma = 0.030485:standard:0.226820
+AdjustCycle = 1	Riskmulti = 6	GuarantRatio = 1
+Amean = 8.582394e+02:	Ratio_Cls = 0.000000:	Tradefeemean = 0.940912:	sigma = 0.030485:standard:0.226820
+AdjustCycle = 1	Riskmulti = 6	GuarantRatio = 9.000000e-01
+Amean = 3.338008e+03:	Ratio_Cls = 0.000000:	Tradefeemean = 4.030508:	sigma = 0.030485:standard:0.226820
+AdjustCycle = 5	Riskmulti = 2	GuarantRatio = 1
+Amean = 1.192346e+02:	Ratio_Cls = 0.000000:	Tradefeemean = 0.004005:	sigma = 0.030485:standard:0.226820
+AdjustCycle = 5	Riskmulti = 2	GuarantRatio = 9.000000e-01
+Amean = 1.723946e+02:	Ratio_Cls = 0.000000:	Tradefeemean = 0.017154:	sigma = 0.030485:standard:0.226820
+AdjustCycle = 5	Riskmulti = 3	GuarantRatio = 1
+Amean = 1.471040e+02:	Ratio_Cls = 0.000000:	Tradefeemean = 0.021836:	sigma = 0.030485:standard:0.226820
+AdjustCycle = 5	Riskmulti = 3	GuarantRatio = 9.000000e-01
+Amean = 2.917770e+02:	Ratio_Cls = 0.000000:	Tradefeemean = 0.093536:	sigma = 0.030485:standard:0.226820
+AdjustCycle = 5	Riskmulti = 4	GuarantRatio = 1
+Amean = 2.134784e+02:	Ratio_Cls = 0.000000:	Tradefeemean = 0.082214:	sigma = 0.030485:standard:0.226820
+AdjustCycle = 5	Riskmulti = 4	GuarantRatio = 9.000000e-01
+Amean = 5.761000e+02:	Ratio_Cls = 0.000000:	Tradefeemean = 0.352176:	sigma = 0.030485:standard:0.226820
+AdjustCycle = 5	Riskmulti = 5	GuarantRatio = 1
+Amean = 3.691001e+02:	Ratio_Cls = 0.000000:	Tradefeemean = 0.264392:	sigma = 0.030485:standard:0.226820
+AdjustCycle = 5	Riskmulti = 5	GuarantRatio = 9.000000e-01
+Amean = 1.242724e+03:	Ratio_Cls = 0.000000:	Tradefeemean = 1.132557:	sigma = 0.030485:standard:0.226820
+AdjustCycle = 5	Riskmulti = 6	GuarantRatio = 1
+Amean = 7.285071e+02:	Ratio_Cls = 0.000000:	Tradefeemean = 0.777625:	sigma = 0.030485:standard:0.226820
+AdjustCycle = 5	Riskmulti = 6	GuarantRatio = 9.000000e-01
+Amean = 2.782284e+03:	Ratio_Cls = 0.000000:	Tradefeemean = 3.331047:	sigma = 0.030485:standard:0.226820
+AdjustCycle = 10	Riskmulti = 2	GuarantRatio = 1
+Amean = 1.189222e+02:	Ratio_Cls = 0.000000:	Tradefeemean = 0.003928:	sigma = 0.030485:standard:0.226820
+AdjustCycle = 10	Riskmulti = 2	GuarantRatio = 9.000000e-01
+Amean = 1.710563e+02:	Ratio_Cls = 0.000000:	Tradefeemean = 0.016828:	sigma = 0.030485:standard:0.226820
+AdjustCycle = 10	Riskmulti = 3	GuarantRatio = 1
+Amean = 1.449252e+02:	Ratio_Cls = 0.000000:	Tradefeemean = 0.020760:	sigma = 0.030485:standard:0.226820
+AdjustCycle = 10	Riskmulti = 3	GuarantRatio = 9.000000e-01
+Amean = 2.824438e+02:	Ratio_Cls = 0.000000:	Tradefeemean = 0.088929:	sigma = 0.030485:standard:0.226820
+AdjustCycle = 10	Riskmulti = 4	GuarantRatio = 1
+Amean = 2.035664e+02:	Ratio_Cls = 0.000000:	Tradefeemean = 0.074847:	sigma = 0.030485:standard:0.226820
+AdjustCycle = 10	Riskmulti = 4	GuarantRatio = 9.000000e-01
+Amean = 5.336403e+02:	Ratio_Cls = 0.000000:	Tradefeemean = 0.320616:	sigma = 0.030485:standard:0.226820
+AdjustCycle = 10	Riskmulti = 5	GuarantRatio = 1
+Amean = 3.322809e+02:	Ratio_Cls = 0.000000:	Tradefeemean = 0.227829:	sigma = 0.030485:standard:0.226820
+AdjustCycle = 10	Riskmulti = 5	GuarantRatio = 9.000000e-01
+Amean = 1.085004e+03:	Ratio_Cls = 0.000000:	Tradefeemean = 0.975934:	sigma = 0.030485:standard:0.226820
+AdjustCycle = 10	Riskmulti = 6	GuarantRatio = 1
+Amean = 6.077461e+02:	Ratio_Cls = 0.000000:	Tradefeemean = 0.627539:	sigma = 0.030485:standard:0.226820
+AdjustCycle = 10	Riskmulti = 6	GuarantRatio = 9.000000e-01
+Amean = 2.264990e+03:	Ratio_Cls = 0.000000:	Tradefeemean = 2.688135:	sigma = 0.030485:standard:0.226820
+AdjustCycle = 20	Riskmulti = 2	GuarantRatio = 1
+Amean = 1.183641e+02:	Ratio_Cls = 0.000000:	Tradefeemean = 0.003487:	sigma = 0.030485:standard:0.226820
+AdjustCycle = 20	Riskmulti = 2	GuarantRatio = 9.000000e-01
+Amean = 1.686658e+02:	Ratio_Cls = 0.000000:	Tradefeemean = 0.014935:	sigma = 0.030485:standard:0.226820
+AdjustCycle = 20	Riskmulti = 3	GuarantRatio = 1
+Amean = 1.413112e+02:	Ratio_Cls = 0.000000:	Tradefeemean = 0.016981:	sigma = 0.030485:standard:0.226820
+AdjustCycle = 20	Riskmulti = 3	GuarantRatio = 9.000000e-01
+Amean = 2.669625e+02:	Ratio_Cls = 0.000000:	Tradefeemean = 0.072741:	sigma = 0.030485:standard:0.226820
+AdjustCycle = 20	Riskmulti = 4	GuarantRatio = 1
+Amean = 1.885043e+02:	Ratio_Cls = 0.000000:	Tradefeemean = 0.055372:	sigma = 0.030485:standard:0.226820
+AdjustCycle = 20	Riskmulti = 4	GuarantRatio = 9.000000e-01
+Amean = 4.691199e+02:	Ratio_Cls = 0.000000:	Tradefeemean = 0.237195:	sigma = 0.030485:standard:0.226820
+AdjustCycle = 20	Riskmulti = 5	GuarantRatio = 1
+Amean = 2.815963e+02:	Ratio_Cls = 0.000000:	Tradefeemean = 0.150049:	sigma = 0.030485:standard:0.226820
+AdjustCycle = 20	Riskmulti = 5	GuarantRatio = 9.000000e-01
+Amean = 8.678899e+02:	Ratio_Cls = 0.000000:	Tradefeemean = 0.642753:	sigma = 0.030485:standard:0.226820
+AdjustCycle = 20	Riskmulti = 6	GuarantRatio = 1
+Amean = 4.585392e+02:	Ratio_Cls = 0.000000:	Tradefeemean = 0.363211:	sigma = 0.030485:standard:0.226820
+AdjustCycle = 20	Riskmulti = 6	GuarantRatio = 9.000000e-01
+Amean = 1.625845e+03:	Ratio_Cls = 0.000000:	Tradefeemean = 1.555857:	sigma = 0.030485:standard:0.226820
