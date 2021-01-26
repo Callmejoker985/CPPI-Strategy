@@ -1,5 +1,5 @@
 # CPPI-Strategy
-A easy strategy to achieve CPPI method.
+A easy strategy to achieve CPPI method.   
 1.题目：   
 设计一款保本理财产品，采用CPPI组合保险策略进行投资，产品组合初始价值为100万，期限为一年，无风险资产收益率为5%，投资标的可以是股票、ETF指数基金、汇率、黄金等，风险资产交易费用根据实际计算。   
 风险乘数可选：2、3、4、5、6五种；   
